@@ -1,0 +1,9 @@
+{
+  "model_name": "Qwen/Qwen2.5-1.5B-Instruct",
+  "dataset_path": "sgb_sales_dataset.jsonl",
+  "samples_count": 8,
+  "adapter_dir": "sgb_qwen_qlora_adapter",
+  "train_loss": 3.5102123816808066,
+  "global_step": 6,
+  "max_vram_allocated_mb": 2640.9
+}
